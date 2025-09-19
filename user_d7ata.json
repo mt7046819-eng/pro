@@ -1,0 +1,58 @@
+{
+    "7138653279": {
+        "templates": {},
+        "known_chats": {
+            "1598987074": "كروب بنات دردشه تعارف",
+            "7138653279": "دردشة خاصة"
+        },
+        "scheduling": {
+            "active": true,
+            "step": "template_1",
+            "templates": [],
+            "interval": null,
+            "count": null,
+            "last_msg_id": [
+                25504
+            ]
+        },
+        "broadcasting": {
+            "active": true,
+            "step": "awaiting_here",
+            "templates": [
+                {
+                    "text": "افتح كام برصيد ❤\nفقط عراقيين \nالي مو جاد لا يجي"
+                }
+            ],
+            "interval": 30,
+            "groups": [
+                "7138653279",
+                "channel:1598987074"
+            ],
+            "last_msg_id": [
+                25451
+            ],
+            "here_groups": [
+                "7138653279",
+                "1598987074"
+            ]
+        },
+        "broadcast_status": {
+            "is_broadcasting": false,
+            "broadcast_type": "groups",
+            "sleep_time": 30,
+            "template_pattern": "1",
+            "groups": [
+                "channel:1598987074",
+                "7138653279"
+            ],
+            "templates": [
+                {
+                    "text": "افتح كام برصيد ❤\nفقط عراقيين \nالي مو جاد لا يجي"
+                }
+            ],
+            "group_rotation": {
+                "1598987074": 31
+            }
+        }
+    }
+}
